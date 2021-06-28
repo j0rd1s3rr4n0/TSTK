@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MicrosystemsPC - MultiTask
+</name>
+</assembly>
+<members>
+<member name="T:microsystemspcmutiitask.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources._4001044">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources._4006487">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources._41374_harddrive_256x256">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.ezgif_com_gif_maker__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.fire_trash">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.fire_trash1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.images__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.MICROSYSTEMS_PC_LOGO_OK_DEF">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.MICROSYSTEMS_PC_LOGO_OK_DEF_TODO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.MicrosystemsPC_Text">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.network_fix">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.permits">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.SPOILER_Brokeware">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.ssd">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.temp_delete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.trucos_para_mantener_tu_web_libre_de_amenazas_ed9021b4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:microsystemspcmutiitask.My.Resources.Resources.windows">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

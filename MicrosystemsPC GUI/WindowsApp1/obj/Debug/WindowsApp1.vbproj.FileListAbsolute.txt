@@ -1,0 +1,39 @@
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Jordi\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.form1.resources
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.Form2.resources
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.Resources.resources
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.exe.config
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.exe
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.pdb
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.xml
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.exe
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.xml
+C:\Users\draku\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.pdb
+D:\Users\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.exe.config
+D:\Users\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.exe
+D:\Users\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.pdb
+D:\Users\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MicrosystemsPC - MultiTask.xml
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.form1.resources
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.Form2.resources
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\microsystemspcmutiitask.Resources.resources
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.exe
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.xml
+D:\Users\source\repos\WindowsApp1\WindowsApp1\obj\Debug\MicrosystemsPC - MultiTask.pdb
